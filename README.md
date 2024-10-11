@@ -5,7 +5,7 @@
 📍 **Based in Denmark**  
 🏢 **Senior Data Scientist at NTT Data**  
 🎓 **Biophysics PhD**  
-🦀 🐍 **Rust and Python Connoisseur** 
+🦀 **Rust and Python Connoisseur** 🐍
 
 📧 [Contact me](mailto:UlrikTPedersen@gmail.com) | 🌐 [Connect with me](https://www.linkedin.com/in/ulrikthygepedersen/) | 📂 [Read me thoughts](https://medium.com/@ulriktpedersen) | 📊 [Check out my work](https://www.kaggle.com/ulrikthygepedersen)
 

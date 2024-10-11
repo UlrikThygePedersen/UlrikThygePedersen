@@ -2,12 +2,13 @@
 
 ### Senior Data Scientist | AI Enthusiast | Bayesian Expert  
 📍 **Based in Denmark** | 🏢 **Senior Data Scientist at NTT Data**  
-📧 [Contact Me](mailto:UlrikTPedersen@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/ulrikthygepedersen/) | 📂 [Medium](https://medium.com/@ulriktpedersen) | 📊 [Kaggle](https://www.kaggle.com/ulrikthygepedersen)
+
+📧 [Contact me!](mailto:UlrikTPedersen@gmail.com) | 🌐 [Connect with me!](https://www.linkedin.com/in/ulrikthygepedersen/) | 📂 [Read me thoughts!](https://medium.com/@ulriktpedersen) | 📊 [Check out my work!](https://www.kaggle.com/ulrikthygepedersen)
 
 ---
 
 ## About Me
-As a **Senior Data Scientist**, I thrive at the intersection of cutting-edge machine learning, artificial intelligence, and **Bayesian statistics**. Whether it's solving complex business problems or developing **agentic frameworks for language models (LLMs)**, my focus is on transforming data into actionable insights.
+As a **Senior Data Scientist**, I thrive at the intersection of cutting-edge machine learning, artificial intelligence, and statistics. Whether it's solving complex business problems or developing **agentic frameworks for language models (LLMs)**, my focus is on transforming data into actionable insights.
 
 With a background in **biophysics** and data science, I've led a diverse range of projects, from **automating processes with AI** to **optimizing supply chain operations**. Currently, I’m applying these skills at **NTT Data**, where I also mentor the next generation of data scientists.
 

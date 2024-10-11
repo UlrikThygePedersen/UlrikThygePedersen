@@ -1,7 +1,11 @@
 # Welcome! I'm Ulrik Thyge Pedersen 👋
 
-### Senior Data Scientist | AI Enthusiast | Bayesian Expert  
-📍 **Based in Denmark** | 🏢 **Senior Data Scientist at NTT Data**  
+### Senior Data Scientist | AI Enthusiast | Biophysics PhD
+
+📍 **Based in Denmark**  
+🏢 **Senior Data Scientist at NTT Data**  
+🎓 **Biophysics PhD**  
+🦀 🐍 **Rust and Python Connoisseur** 
 
 📧 [Contact me!](mailto:UlrikTPedersen@gmail.com) | 🌐 [Connect with me!](https://www.linkedin.com/in/ulrikthygepedersen/) | 📂 [Read me thoughts!](https://medium.com/@ulriktpedersen) | 📊 [Check out my work!](https://www.kaggle.com/ulrikthygepedersen)
 

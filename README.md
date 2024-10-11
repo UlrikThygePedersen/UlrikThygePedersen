@@ -1,62 +1,99 @@
-# Welcome to My GitHub! 👋
+# Welcome! I'm Ulrik Thyge Pedersen 👋
 
-### Ulrik Thyge Pedersen  
-**Senior Data Scientist** | **AI Enthusiast** | **Mentor**  
-📍 Denmark | 🏢 Senior Data Scientist at NTT Data  
-📧 [Email Me](mailto:UlrikTPedersen@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/ulrikthygepedersen/) | 📂 [Medium Articles](https://medium.com/@ulriktpedersen) | 📊 [Kaggle](https://www.kaggle.com/ulrikthygepedersen)
+### Senior Data Scientist | AI Enthusiast | Bayesian Expert  
+📍 **Based in Denmark** | 🏢 **Senior Data Scientist at NTT Data**  
+📧 [Contact Me](mailto:UlrikTPedersen@gmail.com) | 🌐 [LinkedIn](https://www.linkedin.com/in/ulrikthygepedersen/) | 📂 [Medium](https://medium.com/@ulriktpedersen) | 📊 [Kaggle](https://www.kaggle.com/ulrikthygepedersen)
 
 ---
 
 ## About Me
-I'm a **Senior Data Scientist** with a passion for transforming complex datasets into impactful insights. My expertise lies in **machine learning**, **artificial intelligence**, and **data engineering**. With a strong foundation in both biophysics and data science, I focus on developing innovative solutions that optimize business processes and improve decision-making.
+As a **Senior Data Scientist**, I thrive at the intersection of cutting-edge machine learning, artificial intelligence, and **Bayesian statistics**. Whether it's solving complex business problems or developing **agentic frameworks for language models (LLMs)**, my focus is on transforming data into actionable insights.
 
-Currently, I lead multiple projects at **NTT Data**, driving impactful data-driven solutions across industries. My contributions range from developing AI frameworks for sensitive data analysis to optimizing warehouse operations. I also mentor the next generation of data scientists through the Danish Data Science Association.
-
-### Highlights of My Experience:
-- **AI & Machine Learning**: Developed a **multi-agent AI framework** to automate call classification and detect sensitive conversations.
-- **Optimization**: Designed an algorithm that **increased shipping rates by 51%** through optimized warehouse operations.
-- **Mentorship**: Active mentor in the **Danish Data Science Association**, helping aspiring data scientists grow their skills and careers.
+With a background in **biophysics** and data science, I've led a diverse range of projects, from **automating processes with AI** to **optimizing supply chain operations**. Currently, I’m applying these skills at **NTT Data**, where I also mentor the next generation of data scientists.
 
 ---
 
 ## What I Do
-- **Artificial Intelligence & Machine Learning**: Specialize in building intelligent systems that leverage cloud-based technologies (e.g., Azure, Snowflake).
-- **Data Engineering**: Develop scalable data pipelines and deploy machine learning models to production.
-- **Automation**: Skilled in automating complex processes, from data validation to large-scale content generation.
 
-**Tools & Technologies**:  
-![Python](https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=blue) ![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust) ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+### **Machine Learning & AI** 🧠  
+My main focus is on building and deploying **machine learning** and **AI solutions** that deliver tangible business impact. From creating predictive models that drive smarter decision-making to deploying AI systems into production, I cover the entire lifecycle of AI development to ensure real-world success.
 
----
-
-## Key Projects
-- **AI-Powered Call Monitoring System**: Developed a multi-agent framework to classify, interpret, and respond to phone calls, identifying sensitive conversations automatically.
-- **Warehouse Optimization**: Designed and deployed an algorithm to optimize product movement and packing routes, leading to a **51% increase in shipping rates**.
-- **Time-to-Failure Prediction**: Built a machine learning model that reduced factory downtime by **31%** and cut maintenance costs by **11%**.
-
-Check out my [GitHub repositories](https://github.com/UlrikThygePedersen) to explore more of my work!
+**Key Applications:**
+- Predictive modeling for business insights
+- Deep learning frameworks for computer vision and NLP tasks
+- End-to-end AI pipelines, from data processing to model deployment
 
 ---
 
-## Certifications
+### **Bayesian Statistics** 📊  
+I utilize **Bayesian statistics** to develop models that are more interpretable and better suited for decision-making under uncertainty. These methods allow for a more robust approach when dealing with incomplete data or when integrating prior knowledge into machine learning models.
+
+**Key Applications:**
+- Probabilistic models for uncertain environments
+- Bayesian inference to improve predictions and decision-making
+
+---
+
+### **Agentic Frameworks for LLMs** 🤖  
+I’m also exploring the development of **agent-based frameworks** for **large language models (LLMs)**. These frameworks extend the capabilities of LLMs, allowing them to autonomously handle workflows such as customer service automation or decision support.
+
+**Key Applications:**
+- Autonomous agents for process automation
+- LLM-based conversational agents for task execution
+
+---
+
+## Key Technologies & Tools
+
+![Python](https://img.shields.io/badge/Python-FFD343?style=for-the-badge&logo=python&logoColor=blue) 
+![Rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust) 
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
+![Bayesian](https://img.shields.io/badge/Bayesian_Statistics-8B0000?style=for-the-badge&logo=scipy&logoColor=white) 
+![LLMs](https://img.shields.io/badge/LLMs-NLP_Models-FF4500?style=for-the-badge&logo=OpenAI&logoColor=white)
+
+---
+
+## Projects Worth Checking Out
+
+- **AI Call Monitoring System**: Built an **agentic multi-agent AI framework** to automate the classification and response to phone calls, detecting sensitive conversations autonomously.
+- **Bayesian Predictive Modeling**: Developed a probabilistic model to predict future sales under uncertain market conditions, resulting in a **13% increase in profit margins**.
+- **Warehouse Optimization Algorithm**: Designed a system that **increased shipping rates by 51%** through optimized product handling and packing.
+
+---
+
+## Certifications & Learning
 - **Azure Data Scientist Associate** (2024)
 - **Azure AI Engineer Associate** (2024)
 - **SnowPro Data Scientist** (2023)
 
+I'm always seeking opportunities to expand my knowledge, especially in areas like **causal inference** and **reinforcement learning**.
+
 ---
 
 ## Fun Facts About Me
-- I enjoy making sourdough bread 🍞, playing chess ♟️, and competing in CrossFit 🏋️‍♂️.
-- When I'm not diving into data, you can find me watching American football 🏈 or traveling to remote locations 🌍.
+Outside of work, I enjoy:
+- Experimenting with **sourdough bread** 🍞
+- Competing in **CrossFit** 🏋️‍♂️
+- Watching **American football** 🏈
+- Traveling to remote locations 🌍
 
 ---
 
-Feel free to connect with me or check out my work:
-- 💼 [LinkedIn](https://www.linkedin.com/in/ulrikthygepedersen/)
-- 📝 [Medium Articles](https://medium.com/@ulriktpedersen)
-- 🧑‍💻 [Kaggle](https://www.kaggle.com/ulrikthygepedersen)
+## Get In Touch!
+
+- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/ulrikthygepedersen/)
+- 📝 [Read My Articles on Medium](https://medium.com/@ulriktpedersen)
+- 🧑‍💻 [See My Kaggle Projects](https://www.kaggle.com/ulrikthygepedersen)
+
+Feel free to explore my repositories and connect with me on LinkedIn for collaboration opportunities in **AI, Bayesian statistics**, or **LLM-based agentic systems**!
+
+---
+
+
 
 
 

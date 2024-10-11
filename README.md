@@ -12,7 +12,7 @@
 ---
 
 ## About Me
-As a **Senior Data Scientist**, I thrive at the intersection of cutting-edge machine learning, artificial intelligence, and statistics. Whether it's solving complex business problems or developing **agentic frameworks for language models (LLMs)**, my focus is on transforming data into actionable insights.
+As a **Senior Data Scientist**, I thrive at the intersection of cutting-edge machine learning, artificial intelligence, and statistics. Whether it's solving complex business problems or developing agentic frameworks for language models, my focus is on transforming data into actionable insights.
 
 With a background in **biophysics** and data science, I've led a diverse range of projects, from **automating processes with AI** to **optimizing supply chain operations**. Currently, I’m applying these skills at **NTT Data**, where I also mentor the next generation of data scientists.
 
@@ -55,7 +55,7 @@ I’m also exploring the development of **agent-based frameworks** for **large l
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=postgresql)  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
+![Microsoft Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white) 
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)  
 ![Bayesian](https://img.shields.io/badge/Bayesian_Statistics-8B0000?style=for-the-badge&logo=scipy&logoColor=white) 
 ![LLMs](https://img.shields.io/badge/LLMs-NLP_Models-FF4500?style=for-the-badge&logo=OpenAI&logoColor=white)
@@ -93,8 +93,6 @@ Outside of work, I enjoy:
 - 💼 [Connect on LinkedIn](https://www.linkedin.com/in/ulrikthygepedersen/)
 - 📝 [Read My Articles on Medium](https://medium.com/@ulriktpedersen)
 - 🧑‍💻 [See My Kaggle Projects](https://www.kaggle.com/ulrikthygepedersen)
-
-Feel free to explore my repositories and connect with me on LinkedIn for collaboration opportunities in **AI, Bayesian statistics**, or **LLM-based agentic systems**!
 
 ---
 

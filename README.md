@@ -60,6 +60,11 @@ I’m also exploring the development of **agent-based frameworks** for **large l
 ![Bayesian](https://img.shields.io/badge/Bayesian_Statistics-8B0000?style=for-the-badge&logo=scipy&logoColor=white) 
 ![LLMs](https://img.shields.io/badge/LLMs-NLP_Models-FF4500?style=for-the-badge&logo=OpenAI&logoColor=white)
 
+## Certifications & Learning
+- **Azure Data Scientist Associate** (2024)
+- **Azure AI Engineer Associate** (2024)
+- **SnowPro Data Scientist** (2023)
+
 ---
 
 ## Projects Worth Checking Out
@@ -67,15 +72,6 @@ I’m also exploring the development of **agent-based frameworks** for **large l
 - **AI Call Monitoring System**: Built an **agentic multi-agent AI framework** to automate the classification and response to phone calls, detecting sensitive conversations autonomously.
 - **Bayesian Predictive Modeling**: Developed a probabilistic model to predict future sales under uncertain market conditions, resulting in a **13% increase in profit margins**.
 - **Warehouse Optimization Algorithm**: Designed a system that **increased shipping rates by 51%** through optimized product handling and packing.
-
----
-
-## Certifications & Learning
-- **Azure Data Scientist Associate** (2024)
-- **Azure AI Engineer Associate** (2024)
-- **SnowPro Data Scientist** (2023)
-
-I'm always seeking opportunities to expand my knowledge, especially in areas like **causal inference** and **reinforcement learning**.
 
 ---
 
@@ -87,18 +83,6 @@ Outside of work, I enjoy:
 - Traveling to remote locations 🌍
 
 ---
-
-## Get In Touch!
-
-- 💼 [Connect on LinkedIn](https://www.linkedin.com/in/ulrikthygepedersen/)
-- 📝 [Read My Articles on Medium](https://medium.com/@ulriktpedersen)
-- 🧑‍💻 [See My Kaggle Projects](https://www.kaggle.com/ulrikthygepedersen)
-
----
-
-
-
-
 
 
 <!--

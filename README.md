@@ -70,8 +70,11 @@ I’m also exploring the development of **agent-based frameworks** for **large l
 ## Projects Worth Checking Out
 
 - **UrbanAI**: A simulation that models a city's traffic system using multi-agent technology. Agents handle traffic signals, emergency vehicles, public transportation, and pedestrian crossings to optimize urban traffic flow. Built using **Python**.
+
 - **Cassia**: A **Docking Window Forecast API** built using **weather** and **tide data** to inform ships when they can dock at any harbor. Developed using **Python**.
+
 - **RusticLearning**: A **modular Rust machine learning pipeline** using **linfa**. Includes models like Logistic Regression, KNN, and Random Forest, along with data preprocessing and evaluation tools for **accuracy** and **F1 score** metrics. Built in **Rust**.
+
 - **Harbinger**: A **time series forecasting model** developed with the **Burn** deep learning framework in Rust. Utilizes **LSTM (Long Short-Term Memory)** networks to predict stock prices from historical data. Built in **Rust**.
 
 ---

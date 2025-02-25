@@ -3,7 +3,7 @@
 ### Senior Data Scientist | AI Enthusiast | Biophysics PhD
 
 📍 **Based in Denmark**  
-🏢 **Senior Data Scientist at NTT Data**  
+🏢 **Senior Data Scientist at Novo Nordisk**  
 🎓 **Biophysics PhD**  
 🦀 **Rust and Python Connoisseur** 🐍
 
